@@ -1,0 +1,1 @@
+pagina wed orientada a empresa o negocio, implementa sistemas de mensajes por medio de formularios que se envian a tu servidores, los cuales recomiendo formspree para este caso 
